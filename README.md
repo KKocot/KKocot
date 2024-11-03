@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I’m Krzysztof Kocot
 
-<!--
-**KKocot/KKocot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** from **Katowice, Poland** with nearly 2 years of experience, focused on **Next.js** and **React**. I build end-to-end applications, combining a strong frontend foundation with backend skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+- Next.js, React, TypeScript, Tailwind CSS
+- MongoDB, 
+- Vercel, Tiktalik
+- Git
+
+---
+
+## 🌐 Portfolio
+
+Check out my projects at [BardDev.com](https://portfolio.bard-dev.com).
+
+---
+
+## 📬 Contact
+
+- **Email:** [k.kocot@bard-dev.com](mailto:k.kocot@bard-dev.com)
+
+---
+
+## 🤲 Volunteer Work
+
+I volunteer with **Stowarzyszenie WIOSNA, Akademia Przyszłości**, supporting children in need.
+
+---
+
+Thanks for visiting!
