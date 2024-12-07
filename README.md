@@ -7,7 +7,7 @@ I'm a **Full-Stack Developer** from **Katowice, Poland** with nearly 2 years of 
 ## 💻 Tech Stack
 
 - Next.js, React, TypeScript, Tailwind CSS
-- MongoDB, 
+- MongoDB
 - Vercel, Tiktalik
 - Git
 
