@@ -1,131 +1,151 @@
-# Hi, I'm Krzysztof Kocot
+# Hi, I’m Krzysztof Kocot
 
-  **Full-Stack Developer** | **Freelancer** | Katowice, Poland
+**Full‑Stack Developer | Freelancer**
+Katowice, Poland · Remote
 
-  I build modern, scalable web applications with a focus on exceptional user experience and clean, maintainable code.
-  With nearly 2 years of professional experience, I specialize in **Next.js**, **React**, and **TypeScript**
-  ecosystems.
+I design and build **modern, scalable web applications** with a strong focus on performance, UX, and long‑term maintainability. With nearly **2 years of professional experience**, I specialize in the **Next.js / React / TypeScript** ecosystem, delivering production‑ready solutions from idea to deployment.
 
-  ## What I Do
+---
 
-  I help businesses and startups bring their ideas to life through:
+## What I Do
 
-  - **Custom Web Applications** - From concept to deployment
-  - **Frontend Development** - Responsive, performant UIs with React/Next.js
-  - **Full-Stack Solutions** - End-to-end development including APIs and databases
-  - **Backend APIs** - REST APIs with Node.js, Express, or Bun/Elysia
-  - **Mobile Apps** - Cross-platform development with React Native/Expo
-  - **Landing Pages** - High-converting, SEO-optimized pages
+I help startups and businesses turn ideas into reliable digital products:
 
-  ## Tech Stack
+* **Custom Web Applications** – from architecture to production
+* **Frontend Development** – fast, accessible, responsive UIs
+* **Full‑Stack Solutions** – APIs, databases, auth, payments
+* **Backend APIs** – REST services with Node.js, Express, Bun/Elysia
+* **Mobile Apps** – cross‑platform apps with React Native / Expo
+* **Landing Pages** – SEO‑optimized, conversion‑focused websites
 
-  Frontend     │  Next.js · React · TypeScript · Tailwind CSS · Astro
-  Backend      │  Node.js · Express.js · Bun · Elysia · REST APIs
-  Database     │  MongoDB · Mongoose
-  Mobile       │  React Native · Expo
-  Testing      │  Playwright · E2E Testing
-  DevOps       │  Docker · Vercel · CI/CD · GitHub Actions
-  Tools        │  Git · pnpm · Turborepo
+---
 
-  ## Open Source Contributions
+## Tech Stack
 
-  ### [Denser](https://github.com/openhive-network/denser) - OpenHive Network
-  Active contributor to a **decentralized social media frontend** for the Hive blockchain - the successor to Hive.blog.
-   Building the future of Web3 social platforms.
+**Frontend**
+Next.js · React · TypeScript · Tailwind CSS · Astro
 
-  **Tech:** Next.js · TypeScript · Turborepo · Playwright · Docker · Blockchain Integration
+**Backend**
+Node.js · Express.js · Bun · Elysia · REST APIs
 
-  ## Featured Projects
+**Database**
+MongoDB · Mongoose
 
-  ### [ConqSite](https://conqsite.bard-dev.com) - Gaming Community Platform
-  A comprehensive platform for Conqueror's Blade players featuring:
-  - Guild (House) management with role-based permissions
-  - Interactive unit builder and lineup systems
-  - Real-time map editor with Konva/Canvas
-  - Discord bot integration
-  - Premium subscriptions via Stripe
-  - Internationalization (14 languages)
+**Mobile**
+React Native · Expo
 
-  **Tech:** Next.js 16 · TypeScript · MongoDB · NextAuth.js · Stripe · React Query · Tailwind CSS · Konva · i18n
+**Testing**
+Playwright · End‑to‑End Testing
 
-  ---
+**DevOps**
+Docker · Vercel · CI/CD · GitHub Actions
 
-  ### Elysia Backend - Multi-Project API Server
-  High-performance REST API built with **Bun** and **Elysia** framework, serving multiple projects from a shared
-  MongoDB instance with full CRUD operations and bulk sync capabilities.
+**Tooling**
+Git · pnpm · Turborepo
 
-  **Tech:** Bun · Elysia · TypeScript · MongoDB · Mongoose · Zod · Docker
+---
 
-  ---
+## Open‑Source Contributions
 
-  ### Universal Backend - Express.js API
-  TypeScript-based Express.js backend with MongoDB integration, Docker deployment support, and modular architecture.
+### Denser — OpenHive Network
 
-  **Tech:** Express.js · TypeScript · MongoDB · Docker
+Active contributor to a **decentralized social media frontend** for the Hive blockchain (successor to Hive.blog).
+Focused on building scalable, production‑grade Web3 user interfaces.
 
-  ---
+**Tech:** Next.js · TypeScript · Turborepo · Playwright · Docker · Blockchain Integration
 
-  ### [Excel Reader](https://github.com/kkocot/excel-reader) - Data Analysis Tool
-  Web application for uploading, analyzing, and generating reports from CSV files with intuitive data visualization and
-   automated CI/CD.
+---
 
-  **Tech:** React · TypeScript · Vite · Tailwind CSS · Playwright · GitHub Actions
+## Featured Projects
 
-  ---
+### ConqSite — Gaming Community Platform
 
-  ### [Stasiak Opał](https://stasiak-opal.pl) - Conversion-Optimized Landing
-  Modern, responsive landing page with smooth animations, mobile-first design, and SEO optimization.
+A full‑scale platform for the *Conqueror’s Blade* community:
 
-  **Tech:** TypeScript · Vite · Tailwind CSS · Vercel
+* Guild (House) management with role‑based permissions
+* Interactive unit builder and lineup tools
+* Real‑time tactical map editor (Canvas / Konva)
+* Discord bot integration
+* Premium subscriptions (Stripe)
+* Internationalization (14 languages)
 
-  ---
+**Tech:** Next.js · TypeScript · MongoDB · NextAuth · Stripe · React Query · Tailwind · Konva · i18n
 
-  ### Shopping List App - Mobile Application
-  Cross-platform mobile app built with Expo and React Native for managing shopping lists with promo card tracking.
+---
 
-  **Tech:** React Native · Expo · TypeScript
+### Elysia Backend — Multi‑Project API Server
 
-  ---
+High‑performance REST API built with **Bun + Elysia**, serving multiple applications from a shared MongoDB instance.
+Includes full CRUD, validation, and bulk synchronization.
 
-  ### [Flashcards App](https://flashcards.bard-dev.com) - Interactive Learning Tool
-  Study application with card flipping animations, progress tracking, and local storage persistence.
+**Tech:** Bun · Elysia · TypeScript · MongoDB · Mongoose · Zod · Docker
 
-  **Tech:** React 19 · TypeScript · Framer Motion · Tailwind CSS
+---
 
-  ## Why Work With Me?
+### Universal Backend — Express.js API
 
-  - **Quality Code** - Clean, typed, tested, and maintainable
-  - **Modern Stack** - Using latest technologies and best practices
-  - **Full Ownership** - I handle projects from planning to deployment
-  - **Communication** - Regular updates and transparent process
-  - **Fast Delivery** - Efficient development without compromising quality
-  - **Open Source** - Active contributor to community projects
+Modular, production‑ready Express backend with TypeScript, MongoDB integration, and Docker support.
 
-  ## Let's Connect
+**Tech:** Express.js · TypeScript · MongoDB · Docker
 
-  I'm available for freelance projects and long-term collaborations.
+---
 
-  | | |
-  |---|---|
-  | **Portfolio** | [bard-dev.com](https://bard-dev.com) |
-  | **Email** | [k.kocot@bard-dev.com](mailto:k.kocot@bard-dev.com) |
-  | **LinkedIn** | [linkedin.com/in/krzysztof-kocot-b3043a220/](https://www.linkedin.com/in/krzysztof-kocot-b3043a220/) |
-  | **GitHub** | [@kkocot](https://github.com/kkocot) |
+### Excel Reader — Data Analysis Tool
 
-  ---
+Web application for uploading, analyzing, and generating reports from CSV files with automated CI/CD pipelines.
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kkocot&show_icons=true&theme=github_dark&hide_border=
-  true&count_private=true" alt="GitHub Stats" />
-  </p>
+**Tech:** React · TypeScript · Vite · Tailwind CSS · Playwright · GitHub Actions
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkocot&layout=compact&theme=github_dark&hi
-  de_border=true" alt="Top Languages" />
-  </p>
+---
 
-  ---
+### Stasiak Opał — Conversion‑Optimized Landing Page
 
-  <p align="center">
-    <strong>Open for opportunities - let's build something great together!</strong>
-  </p>
+Modern, mobile‑first landing page focused on performance, SEO, and smooth animations.
+
+**Tech:** TypeScript · Vite · Tailwind CSS · Vercel
+
+---
+
+### Shopping List App — Mobile Application
+
+Cross‑platform mobile app for managing shopping lists and promotional cards.
+
+**Tech:** React Native · Expo · TypeScript
+
+---
+
+### Flashcards App — Learning Tool
+
+Interactive learning application with animations, progress tracking, and local persistence.
+
+**Tech:** React · TypeScript · Framer Motion · Tailwind CSS
+
+---
+
+## Why Work With Me?
+
+* **Production‑Quality Code** – typed, tested, and maintainable
+* **Modern Stack** – current best practices and tooling
+* **End‑to‑End Ownership** – from planning to deployment
+* **Clear Communication** – transparent progress and expectations
+* **Fast Delivery** – efficiency without cutting corners
+* **Open‑Source Mindset** – proven collaboration skills
+
+---
+
+## Let’s Work Together
+
+I’m available for **freelance projects** and **long‑term collaborations**.
+
+|               |                                                                                                                  |
+| ------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Portfolio** | [https://bard-dev.com](https://bard-dev.com)                                                                     |
+| **Email**     | [k.kocot@bard-dev.com](mailto:k.kocot@bard-dev.com)                                                              |
+| **LinkedIn**  | [https://www.linkedin.com/in/krzysztof-kocot-b3043a220/](https://www.linkedin.com/in/krzysztof-kocot-b3043a220/) |
+| **GitHub**    | [https://github.com/kkocot](https://github.com/kkocot)                                                           |
+
+---
+
+<p align="center">
+  <strong>Open for opportunities — let’s build something great.</strong>
+</p>
