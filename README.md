@@ -47,7 +47,7 @@ Git · pnpm · Turborepo
 
 ## Open‑Source Contributions
 
-### Denser — OpenHive Network
+### [Denser](https://github.com/openhive-network/denser) — OpenHive Network
 
 Active contributor to a **decentralized social media frontend** for the Hive blockchain (successor to Hive.blog).
 Focused on building scalable, production‑grade Web3 user interfaces.
@@ -58,7 +58,7 @@ Focused on building scalable, production‑grade Web3 user interfaces.
 
 ## Featured Projects
 
-### ConqSite — Gaming Community Platform
+### [ConqSite](https://conqsite.bard-dev.com) — Gaming Community Platform
 
 A full‑scale platform for the *Conqueror’s Blade* community:
 
@@ -75,6 +75,7 @@ A full‑scale platform for the *Conqueror’s Blade* community:
 
 ### Elysia Backend — Multi‑Project API Server
 
+*(private repository – available as demo/case study on request)*
 High‑performance REST API built with **Bun + Elysia**, serving multiple applications from a shared MongoDB instance.
 Includes full CRUD, validation, and bulk synchronization.
 
@@ -84,13 +85,14 @@ Includes full CRUD, validation, and bulk synchronization.
 
 ### Universal Backend — Express.js API
 
+*(private repository – available as demo/case study on request)*
 Modular, production‑ready Express backend with TypeScript, MongoDB integration, and Docker support.
 
 **Tech:** Express.js · TypeScript · MongoDB · Docker
 
 ---
 
-### Excel Reader — Data Analysis Tool
+### [Excel Reader](https://github.com/kkocot/excel-reader) — Data Analysis Tool
 
 Web application for uploading, analyzing, and generating reports from CSV files with automated CI/CD pipelines.
 
@@ -98,7 +100,7 @@ Web application for uploading, analyzing, and generating reports from CSV files 
 
 ---
 
-### Stasiak Opał — Conversion‑Optimized Landing Page
+### [Stasiak Opał](https://stasiak-opal.pl) — Conversion‑Optimized Landing Page
 
 Modern, mobile‑first landing page focused on performance, SEO, and smooth animations.
 
@@ -114,7 +116,7 @@ Cross‑platform mobile app for managing shopping lists and promotional cards.
 
 ---
 
-### Flashcards App — Learning Tool
+### [Flashcards App](https://flashcards.bard-dev.com) — Learning Tool
 
 Interactive learning application with animations, progress tracking, and local persistence.
 
