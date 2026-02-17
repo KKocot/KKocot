@@ -6,7 +6,7 @@ Katowice, Poland | Remote
 
 I build modern web and mobile applications with over **3 years of commercial experience**. Passionate about clean code and excellent UX. Working remotely from Katowice, delivering solutions for clients worldwide.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-bard--dev.com-FF8833?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://bard-dev.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bard--dev.com-FF8833?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://portfolio.bard-dev.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Krzysztof_Kocot-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krzysztof-kocot-b3043a220/)
 [![Email](https://img.shields.io/badge/Email-k.kocot@bard--dev.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.kocot@bard-dev.com)
 
