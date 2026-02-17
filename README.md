@@ -152,11 +152,6 @@ Browser-based multiplayer card game inspired by the classic War card game. Turn-
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KKocot&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KKocot&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117" height="170" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=KKocot&theme=dark&hide_border=true&background=0d1117" />
 </div>
 
